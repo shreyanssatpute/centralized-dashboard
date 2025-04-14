@@ -2,7 +2,7 @@
 const API_URL = "https://api.jsonbin.io/v3/b";
 const API_KEY = "$2a$10$T6EPAJkBN4iFUJ.pveaXguevWYLcpLPKpUd9ot44ArdPZMEss/A3S";
 const BIN_ID = "67f94d458a456b796687639b";
-const POLLING_INTERVAL = 50000;
+const POLLING_INTERVAL = 5000;
 const EVENTS_PER_PAGE = 10;
 
 // DOM Elements
